@@ -32,7 +32,7 @@ footer{
     align-items: center ;
 }
 .menu ul li{
-    list-style: none;
+    list-style: <i>;
 }
 .menu ul li a{
     color:white;
@@ -99,7 +99,7 @@ footer{
     padding-right: 20px;
 }
 .down ul li{
-    list-style: none;
+    list-style: <i>;
 }
 .down a{
     justify-content: space-between;
