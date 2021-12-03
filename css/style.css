@@ -38,7 +38,7 @@ footer{
     color:white;
     font-size:21px;
     font-family: Times New Roman;
-    text-decoration: none;
+    text-decoration: <b>;
 }
 .menu ul li a:hover{
     text-decoration: underline;
