@@ -99,7 +99,7 @@ footer{
     padding-right: 24px;
 }
 .down ul li{
-    list-style: <b>; <i>;
+    list-style: none;
 }
 .down a{
     justify-content: space-between;
