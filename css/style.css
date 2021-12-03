@@ -35,7 +35,7 @@ footer{
     list-style: none;
 }
 .menu ul li a{
-    color:green;
+    color:white;
     font-size:21px;
     font-family: Times New Roman;
     text-decoration: none;
@@ -63,7 +63,7 @@ footer{
     width:300px;
     text-align: center;
     font-family: Times New Roman, Helvetica, sans-serif;
-    font-size:36px;
+    font-size:28px;
     background: url('../img/pixel.png');
 }
 .main div{
